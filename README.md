@@ -1,4 +1,4 @@
-# 🚀 Python Fundamentals - Day 1 Complete Guide
+# 🚀 Python Fundamentals - Complete Guide
 
 > **Master Python Basics: Variables, Data Types, Keywords, Operators, Input/Output & More!**
 
